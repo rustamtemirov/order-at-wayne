@@ -1,6 +1,6 @@
 # order-at-wayne
 
-Before running download packages Flask, requests, telebot, pymemecache using  package manager [pip](https://pip.pypa.io/en/stable/).
+Before running download packages Flask, requests, telebot, pymemcache using  package manager [pip](https://pip.pypa.io/en/stable/).
 
 
 ## Running
